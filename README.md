@@ -1,6 +1,9 @@
-# MaterialDesign-Webfont
-Bower Dist for Material Design Webfont. This includes the Stock and Community icons in a single webfont collection.
+The recommended way to use the Material Icons font is by linking to the web font hosted on Google Fonts:
 
-## Learn More
+```html
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+```
 
-https://github.com/Templarian/MaterialDesign
+Read more in our full usage guide:
+http://google.github.io/material-design-icons/#icon-font-for-the-web
